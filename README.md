@@ -38,7 +38,7 @@ I’ve worked across web, mobile, and AI-powered systems, often taking ideas fro
 - **[JSXIcons.com](https://jsxicons.com)**  
   Copy-paste friendly icon library built for JSX workflows.
 
-- **ColPrefix**  
+- **[ColPrefix](https://www.npmjs.com/package/colprefix)**  
   Lightweight library for validating Colombian phone number prefixes.
 
 - **DJRadar.co**  
