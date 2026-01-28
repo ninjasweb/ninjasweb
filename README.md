@@ -29,7 +29,7 @@ I’ve worked across web, mobile, and AI-powered systems, often taking ideas fro
 - **Vozza**  
   Mobile voice transcription app for songwriters and creatives.
 
-- **[WriteBetter.com](https://writebetter.com)**  
+- **[WriteBetter.com](https://writebetter.pro)**  
   AI-powered platform to generate SEO-optimized blogs and product descriptions.
 
 - **[Timtab.app](https://timtab.app)**  
@@ -41,7 +41,7 @@ I’ve worked across web, mobile, and AI-powered systems, often taking ideas fro
 - **[ColPrefix](https://www.npmjs.com/package/colprefix)**  
   Lightweight library for validating Colombian phone number prefixes.
 
-- **DJRadar.co**  
+- **[DJRadar.co](https://djradar.pro)**  
   DJ booking and discovery directory.
 
 ---
